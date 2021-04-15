@@ -2,4 +2,3 @@ practice.ogg,music/practice.ogg
 sample1.ogg,music/sample1.ogg
 sample2.ogg,music/sample2.ogg
 Hey Jude.mp3,D:/Pranav/Pranav_8GB/iTunes/iTunes Media/Music/The Beatles/1/Hey Jude.mp3,music/Hey Jude.mp3
-RAMAYAN CHOPAIYA.mp3,D:/Pranav/Pranav_8GB/iTunes/iTunes Media/Music/01/WWW.YOGAUSA.COM/RAMAYAN CHOPAIYA.mp3,music/RAMAYAN CHOPAIYA.mp3
